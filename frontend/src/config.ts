@@ -1,1 +1,0 @@
-export const BACKEND_URL = "https://backend.nitindagur2002.workers.dev"
